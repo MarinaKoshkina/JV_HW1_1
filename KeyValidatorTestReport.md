@@ -207,7 +207,7 @@
 *Скриншоты* [Ссылка на скриншот](https://monosnap.com/file/oDmHRDMQbmXOCo3xLjgCJ9uUBpS3NF)
 <hr>
 
-В качестве тестовых данных были взяты примеры ключей из [руководства использования KeyValidator] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+В качестве тестовых данных были взяты примеры ключей из [руководства использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 <hr>
 
